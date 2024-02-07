@@ -1,2 +1,3 @@
 # bookbot
-boot.dev tutorial for creating a python program with cli that will read text.
+
+bookbot is my first git project from boot.dev. I'm restarting my programming career
